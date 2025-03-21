@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "name": "anadante",
+    "loop": "10:1:0",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "1:1:0.0",
+        "pitch": "D4",
+        "dur": "1n",
+        "vel": "1"
+      },
+      {
+        "time": "2:1:2.0",
+        "pitch": "D#4",
+        "dur": "1n",
+        "vel": "1"
+      },
+      {
+        "time": "3:1:3.0",
+        "pitch": "Db4",
+        "dur": "1n",
+        "vel": "1"
+      },
+      {
+        "time": "4:2:3.0",
+        "pitch": "C#4",
+        "dur": "1n",
+        "vel": "1"
+      },
+      {
+        "time": "5:1:3.0",
+        "pitch": "B3",
+        "dur": "1m",
+        "vel": "1"
+      },
+      {
+        "time": "6:1:3.0",
+        "pitch": "G#3",
+        "dur": "1m",
+        "vel": "1"
+      }
+    ]
+  },
+  {
+    "name": "contra",
+    "loop": "1:1:0",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "1:0:0.0",
+        "pitch": "C4",
+        "dur": "4n",
+        "vel": "1"
+      }
+    ]
+  }
+]
